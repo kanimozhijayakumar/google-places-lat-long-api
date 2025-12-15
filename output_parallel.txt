@@ -1,0 +1,4 @@
+Latitude: 13.0827, Longitude: 80.2707, User: Terry
+Latitude: 12.9716, Longitude: 77.5946, User: Terry
+Latitude: 17.3850, Longitude: 78.4867, User: Terry
+Total Time Taken (Parallel): 0.70 seconds
